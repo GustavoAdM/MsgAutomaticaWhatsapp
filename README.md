@@ -1,2 +1,2 @@
 # MsgAutomaticaWhatsapp
-Envia mensagem para o whatsapp
+Envia mensagem para o whatsapp usando python
