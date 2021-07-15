@@ -1,5 +1,6 @@
 from msgWhatsapp import FirefoxWhats
 
+#função principal
 
 def main():
     campo = FirefoxWhats()
