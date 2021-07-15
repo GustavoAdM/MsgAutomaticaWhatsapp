@@ -1,6 +1,7 @@
 from msgWhatsapp import FirefoxWhats
 
-#função principal
+# atualizado
+
 
 def main():
     campo = FirefoxWhats()

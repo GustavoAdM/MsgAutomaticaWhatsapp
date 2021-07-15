@@ -4,7 +4,7 @@ import time
 # usei o firefox, mas pode usar chrome, opera
 
 # Obs o diretorio do webdriver
-# Local do EXE
+
 
 
 class FirefoxWhats():
