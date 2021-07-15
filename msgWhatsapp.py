@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 # usei o firefox, mas pode usar chrome, opera
 
-# class="YtmXM"
+# Obs o diretorio do webdriver
 
 
 class FirefoxWhats():
