@@ -6,8 +6,8 @@ from msgWhatsapp import FirefoxWhats
 def main():
     campo = FirefoxWhats()
     campo.FirefoxWhatsapp()
-    campo.contatos('Links lembrete')
-    campo.send_Mensagem('Oi mae, tudo bem com vc?')
+    campo.contatos('Links lembrete') # Passar o nome do contato(deve ser identico ao do whatsapp)
+    campo.send_Mensagem('Oi, Tudo bem') # A mensagem
 
 
 if __name__ == '__main__':
